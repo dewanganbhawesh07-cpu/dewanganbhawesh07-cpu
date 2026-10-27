@@ -1,0 +1,84 @@
+<svg width="1200" height="490" viewBox="0 0 1200 490" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .p-mono { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
+      .p-sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="490" rx="8" fill="#0D1117" stroke="#30363D" stroke-width="1"/>
+
+  <text x="40" y="36" class="p-mono" font-size="12" font-weight="600" fill="#8B949E" letter-spacing="1">// FEATURED_FLAGSHIP_PROJECTS &#183; BHAWESH_DEWANGAN</text>
+
+  <!-- Row 1, Card 1: CPP - Algorithms & Data Structures -->
+  <g transform="translate(40, 52)">
+    <rect width="545" height="195" rx="6" fill="#161B22" stroke="#30363D" stroke-width="1"/>
+    
+    <text x="24" y="36" class="p-sans" font-size="18" font-weight="600" fill="#F0F6FC">CPP Practice</text>
+    <rect x="160" y="20" width="140" height="22" rx="4" fill="#21262D" stroke="#58A6FF" stroke-width="1"/>
+    <text x="170" y="35" class="p-mono" font-size="10" font-weight="600" fill="#58A6FF">CORE C++ &#183; SYSTEMS</text>
+
+    <text x="24" y="58" class="p-mono" font-size="11.5" fill="#8B949E">Algorithmic Problem Solving &amp; DSA</text>
+
+    <text x="24" y="86" class="p-sans" font-size="13" fill="#8B949E">Exhaustive C++ implementation covering STL and memory management.</text>
+    <text x="24" y="106" class="p-sans" font-size="13" fill="#8B949E">Structured problem solutions across Trees, Graphs, DP &amp; Searching.</text>
+    <text x="24" y="126" class="p-sans" font-size="13" fill="#8B949E">Benchmarking time/space complexity with modern C++ standards.</text>
+
+    <rect x="24" y="146" width="497" height="32" rx="4" fill="#21262D" stroke="#30363D" stroke-width="1"/>
+    <text x="36" y="167" class="p-mono" font-size="11" fill="#C9D1D9">C++ &#183; STL &#183; Data Structures &#183; Algorithms &#183; OOP</text>
+  </g>
+
+  <!-- Row 1, Card 2: HTML & Web Showcase -->
+  <g transform="translate(615, 52)">
+    <rect width="545" height="195" rx="6" fill="#161B22" stroke="#30363D" stroke-width="1"/>
+    
+    <text x="24" y="36" class="p-sans" font-size="18" font-weight="600" fill="#F0F6FC">Web Development</text>
+    <rect x="200" y="20" width="125" height="22" rx="4" fill="#21262D" stroke="#FF9933" stroke-width="1"/>
+    <text x="210" y="35" class="p-mono" font-size="10" font-weight="600" fill="#FF9933">FRONTEND &#183; UI/UX</text>
+
+    <text x="24" y="58" class="p-mono" font-size="11.5" fill="#8B949E">Semantic Web &amp; Responsive Layouts</text>
+
+    <text x="24" y="86" class="p-sans" font-size="13" fill="#8B949E">Responsive frontend designs built with modern HTML5 &amp; CSS3.</text>
+    <text x="24" y="106" class="p-sans" font-size="13" fill="#8B949E">Interactive component architectures and dynamic DOM manipulation.</text>
+    <text x="24" y="126" class="p-sans" font-size="13" fill="#8B949E">Cross-browser compliance, modern styling standards &amp; accessibility.</text>
+
+    <rect x="24" y="146" width="497" height="32" rx="4" fill="#21262D" stroke="#30363D" stroke-width="1"/>
+    <text x="36" y="167" class="p-mono" font-size="11" fill="#C9D1D9">HTML5 &#183; CSS3 &#183; JavaScript &#183; Responsive Design &#183; UI/UX</text>
+  </g>
+
+  <!-- Row 2, Card 1: Cloud-Native Full-Stack Platform -->
+  <g transform="translate(40, 265)">
+    <rect width="545" height="195" rx="6" fill="#161B22" stroke="#30363D" stroke-width="1"/>
+    
+    <text x="24" y="36" class="p-sans" font-size="18" font-weight="600" fill="#F0F6FC">Full-Stack Platform</text>
+    <rect x="205" y="20" width="115" height="22" rx="4" fill="#21262D" stroke="#3FB950" stroke-width="1"/>
+    <text x="215" y="35" class="p-mono" font-size="10.5" font-weight="500" fill="#3FB950">MERN &#183; SCALABLE</text>
+
+    <text x="24" y="58" class="p-mono" font-size="11.5" fill="#8B949E">Modern Web Architecture &amp; Dashboard</text>
+
+    <text x="24" y="86" class="p-sans" font-size="13" fill="#8B949E">End-to-end web platform featuring seamless client-server data flow.</text>
+    <text x="24" y="106" class="p-sans" font-size="13" fill="#8B949E">Modular component architecture with state management and live updates.</text>
+    <text x="24" y="126" class="p-sans" font-size="13" fill="#8B949E">Clean REST endpoints backed by schema validation and databases.</text>
+
+    <rect x="24" y="146" width="497" height="32" rx="4" fill="#21262D" stroke="#30363D" stroke-width="1"/>
+    <text x="36" y="167" class="p-mono" font-size="11" fill="#C9D1D9">React &#183; TypeScript &#183; Node.js &#183; Express &#183; MongoDB</text>
+  </g>
+
+  <!-- Row 2, Card 2: Secure Backend & Auth Service -->
+  <g transform="translate(615, 265)">
+    <rect width="545" height="195" rx="6" fill="#161B22" stroke="#30363D" stroke-width="1"/>
+    
+    <text x="24" y="36" class="p-sans" font-size="18" font-weight="600" fill="#F0F6FC">Secure Backend</text>
+    <rect x="180" y="20" width="135" height="22" rx="4" fill="#21262D" stroke="#A371F7" stroke-width="1"/>
+    <text x="190" y="35" class="p-mono" font-size="10.5" font-weight="500" fill="#A371F7">REST API &#183; SECURITY</text>
+
+    <text x="24" y="58" class="p-mono" font-size="11.5" fill="#8B949E">Modular API Architecture &amp; RBAC</text>
+
+    <text x="24" y="86" class="p-sans" font-size="13" fill="#8B949E">Layered backend API with secure token authorization &amp; protected routes.</text>
+    <text x="24" y="106" class="p-sans" font-size="13" fill="#8B949E">Hardened against OWASP vulnerabilities with input sanitization.</text>
+    <text x="24" y="126" class="p-sans" font-size="13" fill="#8B949E">Relational schema design, transactions, and indexing in PostgreSQL/MySQL.</text>
+
+    <rect x="24" y="146" width="497" height="32" rx="4" fill="#21262D" stroke="#30363D" stroke-width="1"/>
+    <text x="36" y="167" class="p-mono" font-size="11" fill="#C9D1D9">Node.js &#183; TypeScript &#183; PostgreSQL &#183; JWT &#183; Docker</text>
+  </g>
+</svg>

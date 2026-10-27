@@ -1,29 +1,13 @@
 <div align="center">
 
-  <!-- HERO BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,35,50&height=220&section=header&text=Hi%2C%20I'm%20Bhawesh%20Dewangan%20👋&fontSize=40&fontAlignY=36&desc=Computer%20Science%20Student%20%7C%20Software%20Developer%20%7C%20C%2B%2B%20%26%20Backend%20Enthusiast&descFontSize=17&descAlignY=62" width="100%" alt="Header Banner" />
+  <img src="./hero.svg" alt="Bhawesh Dewangan - Developer Profile Banner" width="100%">
 
-  <!-- DYNAMIC TYPING SVG -->
-  <a href="https://github.com/dewanganbhawesh07-cpu">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00F5D4&center=true&vCenter=true&width=650&lines=CS+Undergrad+%40+Software+Engineering;Full-Stack+%26+Backend+Development;C%2B%2B+Problem+Solving+%26+DSA;Building+Scalable+%26+Secure+Software" alt="Typing SVG" />
-  </a>
+  <br/><br/>
 
-  <p align="center">
-    <!-- FOLLOWERS BADGE -->
-    <a href="https://github.com/dewanganbhawesh07-cpu?tab=followers">
-      <img src="https://img.shields.io/github/followers/dewanganbhawesh07-cpu?label=Followers&style=for-the-badge&color=0d1117&logo=github&logoColor=white" alt="GitHub Followers" />
-    </a>
-    <!-- LINKEDIN BADGE -->
-    <a href="https://www.linkedin.com/in/dewanganbhawesh07" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <!-- EMAIL BADGE -->
-    <a href="mailto:devangbhawesh07@gmail.com">
-      <img src="https://img.shields.io/badge/Email-devangbhawesh07%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <!-- STATUS BADGE -->
-    <img src="https://img.shields.io/badge/Status-Open%20to%20Roles-2ea44f?style=for-the-badge" alt="Current Status" />
-  </p>
+  [![GitHub followers](https://img.shields.io/github/followers/dewanganbhawesh07-cpu?label=Followers&style=for-the-badge&logo=github&color=10B981&labelColor=0D1117)](https://github.com/dewanganbhawesh07-cpu)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/dewanganbhawesh07)
+  [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:devangbhawesh07@gmail.com)
+  [![Status](https://img.shields.io/badge/Status-Building_Scalable_Systems-FF9933?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0D1117)](https://github.com/dewanganbhawesh07-cpu)
 
 </div>
 
@@ -31,171 +15,86 @@
 
 ### 👨‍💻 About Me
 
-```yaml
-name: Bhawesh Dewangan
-role: Computer Science Student & Software Developer
-interests: [C++ Systems, Data Structures & Algorithms, Full-Stack Development, Security]
-current_focus: Building scalable software solutions & mastering algorithmic problem solving
-motto: "Write clean code, master systems from first principles, build things that matter."
-```
+> **Computer Science undergraduate building resilient full-stack architectures, solving complex algorithmic challenges in C++, and engineering scalable software systems.**
 
-- 🎓 **Undergraduate Computer Science student** passionate about building robust, efficient, and user-centric software.
-- 🚀 **Full-Stack & Backend Focus:** Designing responsive frontends, clean REST APIs, and scalable services.
-- ⚡ **C++ Problem Solver:** Deep appreciation for algorithmic efficiency, memory management, and Data Structures & Algorithms.
-- 🛡️ **Security & AI Enthusiast:** Exploring modern AI toolchains, secure authentication, and defensive engineering practices.
-- 🎯 **Actively seeking:** Software Engineering Internships and high-impact technical collaborations.
+I'm a Computer Science & Engineering undergraduate passionate about high-performance software engineering, modern web architectures, and verifiable systems programming. My technical focus spans across modular full-stack web applications, structured backend API systems with relational and document databases, rigorous algorithmic problem solving in modern C++, and secure software design principles.
 
 ---
 
-### 💡 Core Strengths & Expertise
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🌐 Full-Stack Web Development</h4>
-      <ul>
-        <li>Modern frontend engineering with semantic HTML5, CSS3, and modern frameworks.</li>
-        <li>Dynamic component structures, responsive design, and clean UI/UX standards.</li>
-        <li>Clean client-server data flow, API integration, and optimistic rendering.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>⚡ C++ & Problem Solving</h4>
-      <ul>
-        <li>Rigorous foundation in Data Structures, Algorithms, and complexity analysis.</li>
-        <li>Modern C++ paradigms (STL, object-oriented programming, memory management).</li>
-        <li>Continuous problem solving on LeetCode and competitive programming platforms.</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🛠️ Backend & Systems Architecture</h4>
-      <ul>
-        <li>Modular RESTful API design and scalable backend logic.</li>
-        <li>Database schema modeling, relational data consistency, and query optimization.</li>
-        <li>Secure authentication mechanisms, token handling, and session security.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🤖 AI & Cybersecurity Interests</h4>
-      <ul>
-        <li>LLM integration, automated workflows, and developer productivity tooling.</li>
-        <li>Core security fundamentals: defensive programming, validation, and authorization.</li>
-        <li>Modular containerized architectures and developer environment tooling.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🛠️ Tech Stack & Tools
+### 🏛️ Core Identity Pillars
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,py,js,ts,react,html,css,nodejs,express,mongodb,postgres,tailwind,docker,git,github,vscode,linux" alt="Skill Icons" />
-</div>
 
-<br>
+| 1. Full-Stack &amp; Web Systems | 2. Advanced DSA &amp; Systems | 3. Backend &amp; Architecture | 4. Applied AI &amp; Security |
+|:---|:---|:---|:---|
+| • Responsive Component Architectures<br/>• React &amp; TypeScript Ecosystem<br/>• Session Authorization &amp; State Management<br/>• RESTful Client-Server Communication | • Modern C++ &amp; STL Containers<br/>• Algorithmic Problem Solving (DSA)<br/>• Time &amp; Space Complexity Optimization<br/>• Graph Traversal, DP &amp; Backtracking | • Layered REST API Architecture<br/>• Node.js &amp; Express Services<br/>• Relational Schema Design &amp; SQL<br/>• Hardened JWT RBAC Authorization | • LLM &amp; AI Integration Workflows<br/>• Strict Schema Validation &amp; Sanitization<br/>• Defensive Programming Patterns<br/>• Containerized Environments (Docker) |
 
-<details>
-  <summary><b>🔍 Detailed Breakdown by Category</b></summary>
-  <br>
-
-- **Languages:** C++, C, Python, JavaScript (ES6+), TypeScript, HTML5, CSS3, SQL
-- **Web & Backend:** Node.js, Express.js, React, Tailwind CSS, REST APIs
-- **Databases:** PostgreSQL, MongoDB, MySQL, SQLite
-- **Tools & Platforms:** Git, GitHub, VS Code, Linux/Bash, Docker, Postman
-
-</details>
-
----
-
-### 🚀 Featured Projects & Repositories
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=4&width=100%" />
-</div>
-
-#### 1. ⚡ [CPP — Core Algorithms & Systems Practice](https://github.com/dewanganbhawesh07-cpu/CPP)
-> *A comprehensive repository dedicated to C++ problem solving, standard template library (STL) implementations, and algorithmic paradigms.*
-- **Key Highlights:** Optimized algorithmic patterns, clean modular structure, and performance-focused code.
-- **Tech Stack:** `C++` `STL` `Algorithms` `Data Structures`
-- **Link:** [View Repository](https://github.com/dewanganbhawesh07-cpu/CPP)
-
----
-
-#### 2. 🌐 [HTML & Modern Web Showcase](https://github.com/dewanganbhawesh07-cpu/HTML)
-> *Foundational web development projects featuring responsive layouts, semantic structure, and modern frontend styling.*
-- **Key Highlights:** Clean component layout, cross-browser responsiveness, and frontend UI design.
-- **Tech Stack:** `HTML5` `CSS3` `JavaScript` `Responsive Design`
-- **Link:** [View Repository](https://github.com/dewanganbhawesh07-cpu/HTML)
-
----
-
-#### 3. 🛡️ Full-Stack Web Platform & REST API
-> *A scalable full-stack web application designed with role-based access control, secure authentication, and seamless user experience.*
-- **Key Highlights:** JWT-based user authentication, database integration, modular routing, and clean UI dashboard.
-- **Tech Stack:** `Node.js` `Express` `MongoDB/PostgreSQL` `React` `Tailwind`
-
----
-
-### 🧩 Problem Solving & Practice
-
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <b>LeetCode & Problem Solving</b><br><br>
-      <a href="https://leetcode.com/dewanganbhawesh07/" target="_blank">
-        <img src="https://leetcard.jacoblin.cool/dewanganbhawesh07?theme=nord&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <b>Algorithmic Focus Areas</b><br><br>
-      <p align="left">
-        🔹 <b>Data Structures:</b> Arrays, Linked Lists, Trees, Graphs, Hash Maps<br>
-        🔹 <b>Algorithms:</b> Dynamic Programming, Binary Search, DFS/BFS, Two Pointers<br>
-        🔹 <b>Practices:</b> Time & Space Complexity Optimization, Clean Code
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-### 📊 GitHub Activity & Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dewanganbhawesh07-cpu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dewanganbhawesh07-cpu&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
-</div>
-
-<div align="center" style="margin-top: 10px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dewanganbhawesh07-cpu&theme=tokyonight&hide_border=true" width="97%" alt="GitHub Streak" />
 </div>
 
 ---
 
-### 🤝 Let's Connect!
+### 🛠️ Skills & Technologies
 
 <div align="center">
 
-  <p>I am always open to discussing software engineering, open-source initiatives, internships, and technical challenges!</p>
+| Category | Technologies &amp; Tools |
+|---|---|
+| **Core Languages** | `C++` &nbsp;•&nbsp; `JavaScript (ES6+)` &nbsp;•&nbsp; `TypeScript` &nbsp;•&nbsp; `Python` &nbsp;•&nbsp; `C` &nbsp;•&nbsp; `SQL` &nbsp;•&nbsp; `HTML5 / CSS3` |
+| **Frontend &amp; Web** | `React` &nbsp;•&nbsp; `TypeScript` &nbsp;•&nbsp; `Tailwind CSS` &nbsp;•&nbsp; `HTML5` &nbsp;•&nbsp; `CSS3 / Flexbox / Grid` &nbsp;•&nbsp; `Responsive UI/UX` |
+| **Backend &amp; Databases** | `Node.js` &nbsp;•&nbsp; `Express.js` &nbsp;•&nbsp; `PostgreSQL` &nbsp;•&nbsp; `MongoDB` &nbsp;•&nbsp; `MySQL` &nbsp;•&nbsp; `RESTful APIs` &nbsp;•&nbsp; `JWT Authentication` |
+| **Developer Tools &amp; CI** | `Git` &nbsp;•&nbsp; `GitHub` &nbsp;•&nbsp; `VS Code` &nbsp;•&nbsp; `Docker` &nbsp;•&nbsp; `Postman` &nbsp;•&nbsp; `Linux / Bash` &nbsp;•&nbsp; `GCC / Clang` |
+
+</div>
+
+---
+
+### 🚀 Featured Projects
+
+<div align="center">
+  <img src="./projects.svg" alt="Featured Projects" width="100%">
+</div>
+
+<br/>
+
+| Project | Description | Tech Stack | Links |
+|:---|:---|:---|:---:|
+| **[CPP Practice](https://github.com/dewanganbhawesh07-cpu/CPP)** | **Comprehensive C++ practice and algorithms collection.** Features structured implementations of Object-Oriented Programming principles, Standard Template Library (STL) containers, pointer manipulation, and foundational Data Structures (Trees, Graphs, Sorting, Searching). | `C++` `STL` `OOP` `Data Structures` `Algorithms` | [![Source](https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github)](https://github.com/dewanganbhawesh07-cpu/CPP) |
+| **[Web Development Showcase](https://github.com/dewanganbhawesh07-cpu/HTML)** | **Practical web development and frontend project collection.** Demonstrates responsive web layouts, semantic HTML5 structure, modern CSS3 styling paradigms (Flexbox, CSS Grid), interactive DOM manipulation, and cross-browser compatibility. | `HTML5` `CSS3` `JavaScript` `Responsive Design` `UI/UX` | [![Source](https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github)](https://github.com/dewanganbhawesh07-cpu/HTML) |
+| **[Cloud-Native Full-Stack Platform](https://github.com/dewanganbhawesh07-cpu)** | **Scalable full-stack web application with modular component architecture.** Features end-to-end client-server data flow, responsive dashboard interfaces, protected routes, and clean RESTful API integration. | `React` `TypeScript` `Node.js` `Express` `MongoDB` | [![Source](https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github)](https://github.com/dewanganbhawesh07-cpu) |
+| **[Secure Backend & Auth Service](https://github.com/dewanganbhawesh07-cpu)** | **Layered backend microservice with role-based JWT authentication.** Features password encryption, protected endpoint authorization, input sanitization against OWASP vulnerabilities, and relational PostgreSQL database schema design. | `Node.js` `TypeScript` `PostgreSQL` `JWT` `Docker` | [![Source](https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github)](https://github.com/dewanganbhawesh07-cpu) |
+| **[studious-waddle](https://github.com/dewanganbhawesh07-cpu/studious-waddle)** | **Exploratory codebase for prototyping and tooling experimentation.** Testbed repository used for testing emerging architectural patterns, CI workflows, and software engineering experimentation. | `Software Engineering` `Git` `Developer Tooling` | [![Source](https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github)](https://github.com/dewanganbhawesh07-cpu/studious-waddle) |
+
+---
+
+### 💻 Problem Solving & Algorithmic Practice
+
+- **[CPP Repository (Core DSA & Algorithms)](https://github.com/dewanganbhawesh07-cpu/CPP)** — Structured C++ implementations covering arrays, linked lists, stacks, queues, recursion, binary trees, sorting algorithms, and STL container benchmarks.
+- **[Web Development Lab Work](https://github.com/dewanganbhawesh07-cpu/HTML)** — Practical exercises in semantic layout design, DOM event handling, interactive form validations, and CSS responsive units.
+- **Algorithmic Problem Solving (LeetCode / DSA)** — Regular practice with algorithmic patterns including Two Pointers, Sliding Window, Fast & Slow Pointers, Depth-First Search, Breadth-First Search, and Dynamic Programming.
+- **Systems & Computing Foundations** — Hands-on understanding of memory hierarchies, pointer arithmetic, stack vs heap allocation, and structured database normalization.
+
+---
+
+### 📫 Get In Touch
+
+<div align="center">
+
+  **Open to software engineering internships, technical mentorship, and systems/backend collaborations.**
+
+  <br/>
 
   <a href="https://www.linkedin.com/in/dewanganbhawesh07" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Bhawesh_Dewangan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="mailto:devangbhawesh07@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-devangbhawesh07%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Email-devangbhawesh07@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://github.com/dewanganbhawesh07-cpu">
     <img src="https://img.shields.io/badge/GitHub-dewanganbhawesh07--cpu-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 
-  <br><br>
-  <!-- FOOTER WAVE -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,35,50&height=100&section=footer" width="100%" />
-
+  <br/><br/>
+  <sub>© 2026 Bhawesh Dewangan • Computer Science & Engineering Undergraduate</sub>
 </div>

@@ -1,0 +1,101 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .font-sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+      .font-mono { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
+    </style>
+  </defs>
+
+  <!-- Canvas Background: GitHub Dark (#0d1117) -->
+  <rect width="1200" height="260" rx="8" fill="#0D1117" stroke="#30363D" stroke-width="1"/>
+
+  <!-- Left Column: Identity -->
+  <g transform="translate(48, 32)">
+    <!-- Academic Badge -->
+    <rect x="0" y="0" width="280" height="24" rx="12" fill="#161B22" stroke="#30363D" stroke-width="1"/>
+    <circle cx="10" cy="12" r="3.5" fill="#3FB950"/>
+    <text x="20" y="16" class="font-mono" font-size="11" font-weight="500" fill="#8B949E">B.Tech CSE &#183; Software Developer</text>
+
+    <!-- Name -->
+    <text x="0" y="64" class="font-sans" font-size="34" font-weight="700" fill="#F0F6FC" letter-spacing="-0.3">Bhawesh Dewangan</text>
+
+    <!-- Role / University -->
+    <text x="0" y="92" class="font-sans" font-size="14.5" font-weight="500" fill="#8B949E">
+      Computer Science Undergraduate <tspan fill="#58A6FF">&#183;</tspan> <tspan fill="#C9D1D9">Software Engineering</tspan>
+    </text>
+
+    <!-- Core Languages & Focus -->
+    <text x="0" y="118" class="font-sans" font-size="13" font-weight="400" fill="#8B949E">
+      Languages: <tspan fill="#F0F6FC" font-weight="500">C++ &#183; JavaScript &#183; TypeScript &#183; Python &#183; C &#183; SQL</tspan>
+    </text>
+
+    <!-- Tagline -->
+    <text x="0" y="142" class="font-mono" font-size="11.5" fill="#58A6FF">
+      &#8594; Architecting scalable software &#183; Active DSA problem solving
+    </text>
+
+    <!-- Skill Chips -->
+    <g transform="translate(0, 162)">
+      <rect x="0" y="0" width="135" height="26" rx="6" fill="#161B22" stroke="#30363D" stroke-width="1"/>
+      <text x="10" y="17" class="font-mono" font-size="11" fill="#C9D1D9">C++ &#183; LeetCode</text>
+
+      <rect x="145" y="0" width="165" height="26" rx="6" fill="#161B22" stroke="#30363D" stroke-width="1"/>
+      <text x="10" y="17" transform="translate(145, 0)" class="font-mono" font-size="11" fill="#C9D1D9">Full-Stack &#183; React / TS</text>
+
+      <rect x="320" y="0" width="155" height="26" rx="6" fill="#161B22" stroke="#30363D" stroke-width="1"/>
+      <text x="10" y="17" transform="translate(320, 0)" class="font-mono" font-size="11" fill="#C9D1D9">Node.js &#183; Express</text>
+
+      <rect x="485" y="0" width="125" height="26" rx="6" fill="#161B22" stroke="#30363D" stroke-width="1"/>
+      <text x="10" y="17" transform="translate(485, 0)" class="font-mono" font-size="11" fill="#C9D1D9">SQL &#183; Systems</text>
+    </g>
+  </g>
+
+  <!-- Right Column: Minimal GitHub Code Card -->
+  <g transform="translate(660, 24)">
+    <rect width="490" height="212" rx="6" fill="#161B22" stroke="#30363D" stroke-width="1"/>
+
+    <!-- Window Header -->
+    <rect width="490" height="32" rx="6" fill="#21262D"/>
+    <path d="M 0 24 L 0 32 L 490 32 L 490 24 Z" fill="#21262D"/>
+    <line x1="0" y1="32" x2="490" y2="32" stroke="#30363D" stroke-width="1"/>
+
+    <!-- Window Controls -->
+    <circle cx="16" cy="16" r="4.5" fill="#30363D"/>
+    <circle cx="30" cy="16" r="4.5" fill="#30363D"/>
+    <circle cx="44" cy="16" r="4.5" fill="#30363D"/>
+
+    <!-- Tab Label -->
+    <text x="64" y="20" class="font-mono" font-size="11.5" font-weight="500" fill="#8B949E">engineer.cpp</text>
+
+    <!-- Code Content (GitHub Syntax Highlight Palette) -->
+    <g transform="translate(20, 52)" class="font-mono" font-size="11.5">
+      <text x="0" y="0" fill="#8B949E">// Computer Science Undergraduate &amp; Developer</text>
+
+      <text x="0" y="20">
+        <tspan fill="#FF7B72">#include</tspan> <tspan fill="#A5D6FF">&lt;iostream&gt;</tspan>
+      </text>
+
+      <text x="0" y="42">
+        <tspan fill="#FF7B72">struct</tspan> <tspan fill="#FFA657">Developer</tspan> {
+      </text>
+
+      <text x="18" y="62">
+        <tspan fill="#79C0FF">std::string</tspan> name = <tspan fill="#A5D6FF">"Bhawesh Dewangan"</tspan>;
+      </text>
+
+      <text x="18" y="82">
+        <tspan fill="#79C0FF">std::string</tspan> focus = <tspan fill="#A5D6FF">"Full-Stack &amp; Systems"</tspan>;
+      </text>
+
+      <text x="18" y="102">
+        <tspan fill="#79C0FF">std::string</tspan> algorithms = <tspan fill="#A5D6FF">"LeetCode &amp; C++ DSA"</tspan>;
+      </text>
+
+      <text x="18" y="122">
+        <tspan fill="#79C0FF">std::string</tspan> backend = <tspan fill="#A5D6FF">"Node.js, Express, SQL &amp; APIs"</tspan>;
+      </text>
+
+      <text x="0" y="142" fill="#C9D1D9">};</text>
+    </g>
+  </g>
+</svg>
